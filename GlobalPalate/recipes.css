@@ -1,0 +1,73 @@
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-image: url(photos/foodplate.png);
+			background-repeat: no-repeat; 
+		 background-size: 100% 300%;
+		 color:#FFFFFF;
+         line-height: 400%;
+         text-indent: 1em;
+		 margin-bottom: 0;
+            padding: 10px;
+            text-align: center;
+            color: white;
+        }
+		
+		
+footer
+{
+	background-color: #F5F5F5;
+	font-size: 75%;
+	font-style: italic;
+	text-align: center;
+	font-family: Georgia, "Times New Roman", serif;
+	padding: 2em;
+}
+
+
+        nav {
+            background-color: #555;
+            overflow: hidden;
+        }
+
+        nav a {
+            float: left;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+        nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+
+        section {
+            padding: 20px;
+        }
+
+        article {
+            margin-bottom: 20px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 10px;
+            background-color: white;
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        p {
+            color: #555;
+        }
+		
+		.food {
+		width: 300px;

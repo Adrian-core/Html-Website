@@ -1,0 +1,61 @@
+<html lang="en">
+<head>
+<link rel="stylesheet" type="text/css" href="index.css" />
+<meta charset="utf-8">
+<title>Global Palate</title>
+</head>
+
+<body>
+
+	<header class="content">
+		<h1>Global Palate</h1>
+		<p>Explore Culinary Delights from Around the World</p>
+	</header>
+
+
+<nav>
+		<a href="Index.php">Home</a>&nbsp;&nbsp;
+		<a href="Cuisines.php">Cuisines</a>&nbsp;&nbsp;
+		<a href="about.php">About</a>&nbsp;&nbsp;
+		<a href="contact.php">Contact</a>
+</nav>
+	
+<div id="wrapper">	
+
+<main>
+<article>
+		<h2>About Global Palate</h2>
+
+		Global Palate is a website the teaches people about interesting foods from across the globe,
+		our future goal would be to implement recipes into the cuisines we introduce.
+		<br>
+		
+		
+		<br>
+		<ul>
+			<li>Information to contact us can be found in the contact section of the webpage</li>
+			<br>
+			<li>We'd love to hear your food suggestions! </li>
+		</ul>
+		<br>
+				Some address<br>
+				some city, some state 86336<br><br>
+				855-555-5555
+		
+</article>
+
+
+</main>
+
+<footer>
+		<small><i>
+		Copyright © Global Palate, All Rights Reserved.<br>
+		<a href="mailto:iwuntap@gmail.com">iwuntap@gmail.com</a>
+		</i></small>
+	
+	</footer>
+</div>
+
+
+
+</body></html>
